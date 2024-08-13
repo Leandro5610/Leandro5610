@@ -1,6 +1,6 @@
 <div>
   <h1 align="center">Oi Tudo bem? Eu sou o <i>Leandro Rocha Viana</i></a> 😃️</h1>
-  <p align="center">Estou Cursando o Curso Técnico Desenvolveldor de Sistemas <span> 👉🏽️</span>
+  <p align="center">Estou Cursando o Ensino Superior em Análise e Desenvolvimento de Sistemas <span> 👉🏽️</span>
   
   </a><br>
 </div>
